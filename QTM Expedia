@@ -1,1 +1,6 @@
+data1<-data %>%
+  select(date_time, user_location_country, user_location_latitude, orig_destination_distance, cnt, srch_destination_id, user_location_city, hotel_country, hotel_id, is_booking)
+
+dest1<- dest %>%
+  select(srch_destination_id, srch_destination_name, srch_destination_latitude)
 
