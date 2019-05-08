@@ -1,2 +1,2 @@
 # QTM-151-Project
-Expedia stuff
+This project was meant to explore descriptive statistics for 2015 expedia travel and booking data. Our goal was to find where people booked to the most because that represents people both willing and able to pay for the tickets. From there, we build maps to visualize this trend, and show that us citizens tend to only travel internationally to other western countries and domestically to areas of major tourist attractions such as Florida and California. While this may seem to be a very benign result, it can still inform expedia on pricing strategies for various flights.
